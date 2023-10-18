@@ -14,7 +14,7 @@ This project aims to develop and compare some of the most popular techniques use
  * **Year:** 2018
 
 ## Documentation
-Since this repository is a result from a Brazilian undergraduate course project focused in numerical algorithms developed in 2018, all the produced documentation are in Portuguese, as well as the provided assignment. Those document can be found in the docs folder.
+Since this repository is a result of a Brazilian undergraduate course project focused in numerical algorithms developed in 2018, all the produced documentation are in Portuguese, as well as the provided assignment. Those document can be found in the docs folder.
 
 ## Compilation and Usage
 By typing **make** in a terminal in the project directory, you can compile the project. Then, use the command **make run** to execute the programme.
